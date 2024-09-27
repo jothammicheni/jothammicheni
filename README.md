@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jotham Micheni</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
+
+
 <p align="center">
-    ![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="auto" alt="Coding GIF"/>
 </p>
+
 
 
 - 🔭 I’m currently working on [Java Mpesa stk-push](https://github.com/jothammicheni/Mpesa-integration.git)
