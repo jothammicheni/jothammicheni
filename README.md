@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jotham Micheni</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate WEB FULLSTACK DEVELOPER from Nairobi, Kenya</h3>
 
 
 
