@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jothammicheni&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=jothammicheni&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
