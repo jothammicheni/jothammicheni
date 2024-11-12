@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Student portal**<br><br>- 🌱 I’m currently learning **Jest testing**<br><br>- 💬 Ask me about **MERN STACK, TYPESCRIPT**<br><br>- 📫 How to reach me **jothammurimi2001@gmail.com**<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotham-murimi-90b959256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JothamMurimi) 
 
 
