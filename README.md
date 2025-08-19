@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Student portal**<br><br>- 🌱 I’m currently learning **Jest testing**<br><br>- 💬 Ask me about **MERN STACK, TYPESCRIPT**<br><br>- 📫 How to reach me **jothammurimi2001@gmail.com**<br>
+- 🔭 I’m currently working on **Real estate Property Management System**<br><br>- 🌱 I’m currently learning **Jest testing**<br><br>- 💬 Ask me about **MERN STACK, TYPESCRIPT**<br><br>- 📫 How to reach me **jothammurimi2001@gmail.com**<br>
 
 
 ## 🌐 Socials Media:
