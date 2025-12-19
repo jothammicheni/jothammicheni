@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: ![Know me Better Via My Portfolio ](https://my-online-resume-kappa.vercel.app/) 
 - 🔭 I’m currently working on **Real estate Property Management System**<br><br>- 🌱 I’m currently learning **Jest testing**<br><br>- 💬 Ask me about **MERN STACK, TYPESCRIPT**<br><br>- 📫 How to reach me **jothammurimi2001@gmail.com**<br>
 
 
